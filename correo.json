@@ -1,0 +1,18 @@
+{
+  "correos": [
+    {
+      "id": "beta-001",
+      "titulo": "¡GRACIAS POR PROBAR LA BETA!",
+      "texto": "Piloto: gracias por ayudarnos a probar New Horizons. Reporta cualquier falla que encuentres. Aquí tienes un regalo para tus batallas.",
+      "de": "EQUIPO NEW HORIZONS",
+      "para": "todos",
+      "desde": "2026-10-05",
+      "hasta": "2026-11-30",
+      "premios": [
+        { "tipo": "gasolina", "cantidad": 400 },
+        { "tipo": "aceite", "cantidad": 400 },
+        { "tipo": "RENDIMIENTO", "cantidad": 1 }
+      ]
+    }
+  ]
+}
