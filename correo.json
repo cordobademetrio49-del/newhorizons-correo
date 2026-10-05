@@ -1,6 +1,21 @@
 {
   "correos": [
     {
+      "id": "regalo-dm01-001",
+      "titulo": "¡UN NH-DM01 PARA TU HANGAR!",
+      "texto": "Piloto: el alto mando te asigna un NH-DM01 nuevo, listo para el combate con sus 3 miniguns montadas. Recuerda: ahora el daño se queda en tu robot al volver al hangar, así que cuida tus máquinas. ¡Buena caza!",
+      "de": "ALTO MANDO NEW HORIZONS",
+      "para": "todos",
+      "desde": "2026-10-05",
+      "hasta": "2026-12-31",
+      "premios": [
+        {
+          "tipo": "robot:NH-DM01:MINIGUN",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
       "id": "beta-001",
       "titulo": "¡GRACIAS POR PROBAR LA BETA!",
       "texto": "Piloto: gracias por ayudarnos a probar New Horizons. Reporta cualquier falla que encuentres. Aquí tienes un regalo para tus batallas.",
@@ -9,9 +24,18 @@
       "desde": "2026-10-05",
       "hasta": "2026-11-30",
       "premios": [
-        { "tipo": "gasolina", "cantidad": 400 },
-        { "tipo": "aceite", "cantidad": 400 },
-        { "tipo": "RENDIMIENTO", "cantidad": 1 }
+        {
+          "tipo": "gasolina",
+          "cantidad": 400
+        },
+        {
+          "tipo": "aceite",
+          "cantidad": 400
+        },
+        {
+          "tipo": "RENDIMIENTO",
+          "cantidad": 1
+        }
       ]
     }
   ]
