@@ -1,6 +1,25 @@
 {
   "correos": [
     {
+      "id": "regalo-serket-001",
+      "titulo": "¡DOS SERKET LLEGAN A TU HANGAR!",
+      "texto": "Piloto: el alto mando te envía dos Serket listos para el combate. Uno viene armado con miniguns y el otro con lanzamisiles. ¡Combínalos como quieras y arrasa en el campo de batalla!",
+      "de": "ALTO MANDO NEW HORIZONS",
+      "para": "todos",
+      "desde": "2026-10-05",
+      "hasta": "2026-12-31",
+      "premios": [
+        {
+          "tipo": "robot:Serket:MINIGUN",
+          "cantidad": 1
+        },
+        {
+          "tipo": "robot:Serket:LANZAMISILES",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
       "id": "regalo-dm01-001",
       "titulo": "¡UN NH-DM01 PARA TU HANGAR!",
       "texto": "Piloto: el alto mando te asigna un NH-DM01 nuevo, listo para el combate con sus 3 miniguns montadas. Recuerda: ahora el daño se queda en tu robot al volver al hangar, así que cuida tus máquinas. ¡Buena caza!",
