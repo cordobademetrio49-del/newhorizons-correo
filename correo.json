@@ -1,6 +1,26 @@
 {
   "correos": [
     {
+      "id": "actualizacion-0.1.1",
+      "titulo": "¡NUEVA ACTUALIZACIÓN 0.1.1!",
+      "texto": "Piloto: llegó la versión 0.1.1 de New Horizons. Hangar renovado con bahías industriales y un solo robot al centro (cámbialo con las flechas o con CAMBIAR ROBOT). Nuevo perfil con tus récords y el promedio de tus últimas 50 batallas. En batalla, el panel ESTADO DEL ROBOT muestra cada pieza: las armas destruidas explotan y dejan su soporte humeando, y las piernas dañadas sacan chispas. Ahora cuesta más perder armas y piernas. Para agregar o invitar amigos solo escribe los 6 números de su ID. En calidad ALTA y ULTRA el hangar se ve con sombras suaves, reflejos, brillos y rayos de luz. ¡Actualiza y nos vemos en el campo de batalla!",
+      "de": "EQUIPO NEW HORIZONS",
+      "para": "todos",
+      "desde": "2026-10-09",
+      "hasta": "2026-12-31",
+      "premios": []
+    },
+    {
+      "id": "codigos-900401-001",
+      "titulo": "¡TUS CÓDIGOS DE REGALO!",
+      "texto": "Piloto: el alto mando te envía 3 códigos de regalo, solo para tu cuenta. Canjéalos en MENÚ > CÓDIGOS (necesitas la versión 0.1.1):\n\n6EH6-YGD7-A4MS-T4FC-VX9Q-5Z7Y\n2 robots NH-DM01\n\nZ8C2-Y7HY-M6RC-ECM2-NY3M-32L6\n3 Minigun nivel 25\n\n7A4M-TF7F-FG3T-ZY56-DJV4-W6UT\n3 Lanzamisiles nivel 25\n\n¡Buena caza!",
+      "de": "ALTO MANDO NEW HORIZONS",
+      "para": "NH-900401",
+      "desde": "",
+      "hasta": "",
+      "premios": []
+    },
+    {
       "id": "regalo-serket-001",
       "titulo": "¡DOS SERKET LLEGAN A TU HANGAR!",
       "texto": "Piloto: el alto mando te envía dos Serket listos para el combate. Uno viene armado con miniguns y el otro con lanzamisiles. ¡Combínalos como quieras y arrasa en el campo de batalla!",
