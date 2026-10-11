@@ -135,5 +135,17 @@
         }
       ]
     }
+  ],
+  "titulos": [
+    {
+      "id": "NH-552951",
+      "titulo": "VETERANO",
+      "desde": "2026-10-05"
+    },
+    {
+      "id": "NH-900401",
+      "titulo": "VETERANO",
+      "desde": "2026-10-05"
+    }
   ]
 }
