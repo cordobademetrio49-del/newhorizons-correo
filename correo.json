@@ -1,6 +1,21 @@
 {
   "correos": [
     {
+      "id": "regalo-200-keys",
+      "titulo": "¡200 MASTER KEYS DE REGALO!",
+      "texto": "Piloto: aquí tienes 200 Master Keys para reparar tus robots y armas. Solo puedes reclamarlas durante 2 días, ¡no las dejes pasar!",
+      "de": "ALTO MANDO NEW HORIZONS",
+      "para": "todos",
+      "desde": "2026-10-11",
+      "hasta": "2026-10-12",
+      "premios": [
+        {
+          "tipo": "master_key",
+          "cantidad": 200
+        }
+      ]
+    },
+    {
       "id": "regalo-10-dm01-nivel25",
       "titulo": "¡ESCUADRÓN COMPLETO: 10 NH-DM01 NIVEL 25!",
       "texto": "Piloto: el alto mando te entrega un escuadrón entero. 10 robots NH-DM01 al NIVEL 25: 5 armados con LANZAMISILES y 5 con MINIGUN, todas sus armas también al nivel 25. Solo puedes reclamarlo durante 2 días, ¡corre por ellos! (Necesitas la versión 0.1.2 o más nueva).",
