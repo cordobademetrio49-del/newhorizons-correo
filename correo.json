@@ -1,6 +1,21 @@
 {
   "correos": [
     {
+      "id": "regalo-todas-pinturas-nov",
+      "titulo": "¡TODAS LAS PINTURAS GRATIS!",
+      "texto": "Piloto: el alto mando te regala TODAS las pinturas del NH-VR02: raras, épicas y legendarias con efectos. Solo puedes reclamarlas durante 7 días, ¡no las dejes pasar! Póntelas en DETALLES > PINTURA.",
+      "de": "ALTO MANDO NEW HORIZONS",
+      "para": "todos",
+      "desde": "2026-11-02",
+      "hasta": "2026-11-08",
+      "premios": [
+        {
+          "tipo": "pintura:todas",
+          "cantidad": 1
+        }
+      ]
+    },
+    {
       "id": "regalo-200-keys",
       "titulo": "¡200 MASTER KEYS DE REGALO!",
       "texto": "Piloto: aquí tienes 200 Master Keys para reparar tus robots y armas. Solo puedes reclamarlas durante 2 días, ¡no las dejes pasar!",
