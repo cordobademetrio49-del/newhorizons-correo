@@ -1,6 +1,21 @@
 {
   "correos": [
     {
+      "id": "regalo-500-keys-nov",
+      "titulo": "¡500 MASTER KEYS DE REGALO!",
+      "texto": "Piloto: el alto mando te regala 500 Master Keys para reparar tus robots y armas. Solo puedes reclamarlas durante 2 días, ¡no las dejes pasar!",
+      "de": "ALTO MANDO NEW HORIZONS",
+      "para": "todos",
+      "desde": "2026-11-15",
+      "hasta": "2026-11-16",
+      "premios": [
+        {
+          "tipo": "master_key",
+          "cantidad": 500
+        }
+      ]
+    },
+    {
       "id": "regalo-todas-pinturas-nov",
       "titulo": "¡TODAS LAS PINTURAS GRATIS!",
       "texto": "Piloto: el alto mando te regala TODAS las pinturas del NH-VR02: raras, épicas y legendarias con efectos. Solo puedes reclamarlas durante 7 días, ¡no las dejes pasar! Póntelas en DETALLES > PINTURA.",
@@ -52,7 +67,7 @@
     {
       "id": "actualizacion-0.1.2",
       "titulo": "ACTUALIZACIÓN 0.1.2: ¡4 MAPAS NUEVOS!",
-      "texto": "Llegan 4 campos de batalla grandes con 3 rutas, zonas altas y balizas A, B y C que puedes capturar: DESIERTO DE SONORA, BOSQUE Y MONTAÑA, PUERTO INDUSTRIAL y CIUDAD EN RUINAS. Cada partida tiene clima al azar: día, atardecer, noche, lluvia, niebla o tormenta de arena. Gráficos mejorados (en calidad ALTA y ULTRA se ve todo su detalle) y nueva sección de OFERTAS en el hangar. ¡Nos vemos en el campo!",
+      "texto": "Llegan 4 campos de batalla grandes con 3 rutas, zonas altas y balizas A, B y C que puedes capturar: DESIERTO ROJO, BOSQUE Y MONTAÑA, PUERTO INDUSTRIAL y CIUDAD EN RUINAS. Cada partida tiene clima al azar: día, atardecer, noche, lluvia, niebla o tormenta de arena. Gráficos mejorados (en calidad ALTA y ULTRA se ve todo su detalle) y nueva sección de OFERTAS en el hangar. ¡Nos vemos en el campo!",
       "de": "EQUIPO NEW HORIZONS",
       "para": "todos",
       "desde": "2026-10-10",
